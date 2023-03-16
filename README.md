@@ -33,7 +33,7 @@ Rasterizar os vetores de cicatrizes anuais com a função **ee.Image().paint()**
 script: [rasterização dos dados de identificação de cicatrizes.js](https://code.earthengine.google.com/b4c08a9601167fe6eb381d909b73736f)
 
 #### Outros resultados:
-![mapa dos shapes e rasters no qgis] (https://github.com/wallyboy22/scar-id/blob/83d99a01db7cc75c49c8254dc0988cece0805a32/mapa%200.png)
+![mapa dos shapes e rasters no qgis] (/assets/images/mapa0.png)
 Base de dados: [Google Drive](https://drive.google.com/drive/folders/1zsbCJa88UyYBokRKCrgEA_cMXI82n22K?usp=sharing)
 
 ~~~javascript
