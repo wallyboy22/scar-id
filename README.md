@@ -75,13 +75,11 @@ var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO
     <td>
       <picture>
         <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/mosaico_de_qualidade.png">
-<!--           <figcaption>Mosiaco de qualidade</figcaption> -->
       </picture>
     </td>
     <td>
       <picture>
         <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-cover.png">
-<!--         <figcaption>scar-cover</figcaption> -->
       </picture>
     </td>
   </tr>
@@ -89,14 +87,11 @@ var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO
     <td>
       <picture>
         <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-id.png">
-<!--         <figcaption>scar-id</figcaption> -->
-        
       </picture>
     </td>
     <td>
       <picture>
         <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-area.png">
-<!--         <figcaption>scar-area</figcaption> -->
       </picture>
     </td>
   </tr>
