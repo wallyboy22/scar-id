@@ -74,24 +74,24 @@ var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO
   <tr>
     <td>
       <picture>
-        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/mosaico_de_qualidade.png">
+        <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/mosaico_de_qualidade.png">
       </picture>
     </td>
     <td>
       <picture>
-        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-cover.png">
+        <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-cover.png">
       </picture>
     </td>
   </tr>
   <tr>
     <td>
       <picture>
-        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-id.png">
+        <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-id.png">
       </picture>
     </td>
     <td>
       <picture>
-        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-area.png">
+        <img src="https://github.com/wallyboy22/scar-id/blob/1957ac2b0f950793fc06afc21a281e86b6cb1d32/scar-area.png">
       </picture>
     </td>
   </tr>
