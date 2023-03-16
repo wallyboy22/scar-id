@@ -70,41 +70,30 @@ var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO
 
 ~~~
 
+<table>
+  <tr>
+    <td>
+      <picture>
+        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/mosaico_de_qualidade.png">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-cover.png">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-id.png">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-area.png">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<style>
-  .imagem {
-    display: inline-block;
-    width: 45%;
-    margin: 10px;
-  }
-  .coluna {
-    width: 50%;
-    float: left;
-  }
-</style>
-
-<div class="coluna">
-  <div class="imagem">
-    <picture>
-      <img src="https://github.com/wallyboy22/scar-id/blob/c78bccfaea5a00fe3b257abdd88486645569666d/mosaico_de_qualidade.png">
-    </picture>
-  </div>
-  <div class="imagem">
-    <picture>
-      <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-cover.png">
-    </picture>
-  </div>
-</div>
-
-<div class="coluna">
-  <div class="imagem">
-    <picture>
-      <img src="https://github.com/wallyboy22/scar-id/blob/c78bccfaea5a00fe3b257abdd88486645569666d/scar-id.png">
-    </picture>
-  </div>
-  <div class="imagem">
-    <picture>
-      <img src="https://github.com/wallyboy22/scar-id/blob/27ccd345c57522a6043f387818f88d9337b94aca/scar-area.png">
-    </picture>
-  </div>
-</div>
