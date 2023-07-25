@@ -56,8 +56,8 @@ var scar_id = ee.Image('projects/workspace-ipam/assets/FOGO/mapbiomas-fire-colle
 var scar_vector_1985 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col2-1985-v1');
 var scar_vector_1986 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col2-1986-v1');
 ...
-var scar_vector_2019 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col1-2021-v1');
-var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col1-2022-v1');
+var scar_vector_2020 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col1-2021-v1');
+var scar_vector_2022 = ee.FeatureCollection('projects/workspace-ipam/assets/FOGO/VECTOR-COL2/mbfogo-col1-2022-v1');
 
 ~~~
 ~~~javascript
